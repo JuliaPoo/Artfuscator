@@ -59,5 +59,5 @@ TODO
 
 ## Credits
 
-> [Christopher Domas](https://twitter.com/xoreaxeaxeax) for the original idea and work on REPsych
-> [Shinh](https://github.com/shinh/elvm) for ELVM, which is an awesome project
+- [Christopher Domas](https://twitter.com/xoreaxeaxeax) for the original idea and work on REPsych
+- [Shinh](https://github.com/shinh/elvm) for ELVM, which is an awesome project
