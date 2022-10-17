@@ -23,7 +23,10 @@ So a fair bit of warning, I didn't bother to package this project properly. The 
 ### Setting up
 
 ```bash
+# Clone this repo
+git clone https://github.com/JuliaPoo/Artfuscator
 # Clone all the submodules
+cd Artfuscator
 git submodule update --recursive --init --remote
 
 # Build elvm with my bespoke backend
