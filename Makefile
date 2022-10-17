@@ -19,6 +19,5 @@ __check_defined = \
 	ld -m elf_i386 --strip-all -o dist/$@.art build/$@.art.o
 
 clean:
-	@echo owo
-#	rm -r build
-#	rm -r dist
+	rm -r build
+	rm -r dist
