@@ -1,0 +1,8 @@
+The long instruction:
+`vfmaddsub132ps xmm0, xmm1, xmmword ptr cs:[ebx+edx*4+mem]`
+
+eax, ecx: temporary regs
+edi: pc
+ebx, edx: constants (for syscalls)
+
+Remaining: esi
